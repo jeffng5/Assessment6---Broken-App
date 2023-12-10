@@ -1,0 +1,9 @@
+
+module.exports=
+
+"http://rithmschool.com",
+"http://postgresql.com",
+"http://foozlemcblargh.com",
+"https://nodejs.org/api/console.html" 
+
+
